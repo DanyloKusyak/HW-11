@@ -6,4 +6,5 @@ div {
     margin-bottom: 30px;
     border: 2px dotted red;
     background-color: green;
+    box-sizing: border-box;
 }
